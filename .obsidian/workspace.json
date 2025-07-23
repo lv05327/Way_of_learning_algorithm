@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "dab78487cee08a31",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d052ca24207e144",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4db0d44ed3e5efbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数组/双指针/leetcode_27/leetcode_27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "leetcode_27"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1cdb6646639b3e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "980b82a820bf4dd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b92211db045b9e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6251bad2a4c697af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c125b69ed418b72e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.5
+  },
+  "right": {
+    "id": "3d0de255f7f26bb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf0db261fc39d1e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa94e93d2b2d8902",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "二分查找/704/leetcode704.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "leetcode704 的反向链接列表"
+            }
+          },
+          {
+            "id": "7e870726955a1b38",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数组/二分查找/二分查找算法：.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 二分查找算法："
+            }
+          },
+          {
+            "id": "f80d98ce7223593c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7422a712315ef31f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数组/二分查找/二分查找算法：.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 二分查找算法："
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "4db0d44ed3e5efbf",
+  "lastOpenFiles": [
+    "数组/双指针/leetcode_27/leetcode_27/target/debug/incremental/leetcode_27-1nhf8q6vqw7ay/s-h9hnydmnuw-0licu8r-cgk4cd491to10xq8amrsni5u6/work-products.bin",
+    "数组/双指针/leetcode_27/leetcode_27/target/debug/incremental/leetcode_27-1nhf8q6vqw7ay/s-h9hnydmnuw-0licu8r-cgk4cd491to10xq8amrsni5u6/query-cache.bin",
+    "数组/双指针/leetcode_27/leetcode_27/target/debug/incremental/leetcode_27-1nhf8q6vqw7ay/s-h9hnydmnuw-0licu8r-cgk4cd491to10xq8amrsni5u6/dep-graph.bin",
+    "数组/双指针/leetcode_27/leetcode_27/target/debug/incremental/leetcode_27-1nhf8q6vqw7ay/s-h9hnydmnuw-0licu8r-cgk4cd491to10xq8amrsni5u6",
+    "数组/双指针/leetcode_27/leetcode_27/target/debug/incremental/leetcode_27-3mt96jgsfv1d9/s-h9hnydmnuw-1f1m5z1-ep57vbf9t72lwz1qy92sqbbkx/work-products.bin",
+    "数组/双指针/leetcode_27/leetcode_27/target/debug/incremental/leetcode_27-3mt96jgsfv1d9/s-h9hnydmnuw-1f1m5z1-ep57vbf9t72lwz1qy92sqbbkx/query-cache.bin",
+    "数组/双指针/leetcode_27/leetcode_27/target/debug/incremental/leetcode_27-3mt96jgsfv1d9/s-h9hnydmnuw-1f1m5z1-ep57vbf9t72lwz1qy92sqbbkx/dep-graph.bin",
+    "数组/双指针/leetcode_27/leetcode_27/target/debug/incremental/leetcode_27-3mt96jgsfv1d9/s-h9hnydmnuw-1f1m5z1-ep57vbf9t72lwz1qy92sqbbkx",
+    "数组/双指针/leetcode_27/leetcode_27/target/debug/deps/libleetcode_27-34c79e9735d1b53d.rmeta",
+    "数组/双指针/leetcode_27/leetcode_27/target/debug/incremental/leetcode_27-3mt96jgsfv1d9/s-h9hnydmnuw-1f1m5z1.lock",
+    "数组/双指针/leetcode_27/leetcode_27/target/debug/incremental/leetcode_27-1nhf8q6vqw7ay/s-h9hnydmnuw-0licu8r.lock",
+    "数组/二分查找/leetcode_704/leetcode_704.md",
+    "数组/双指针/leetcode_27/leetcode_27.md",
+    "数组/二分查找/704/leetcode_704.md",
+    "数组/双指针/27.md",
+    "数组/双指针/leetcode_27.md",
+    "二分查找/704/leetcode704.md",
+    "数组/二分查找/704/leetcode704.md",
+    "2025-07-22.md",
+    "未命名.canvas",
+    "Untitled.md",
+    "二分查找算法：.md",
+    "数组/二分查找/二分查找算法：.md",
+    "数组/二分查找算法：.md"
+  ]
+}
